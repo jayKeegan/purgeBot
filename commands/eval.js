@@ -16,4 +16,4 @@ exports.run = async (client, msg, args) => {
 			} catch (err) {
 				msg.channel.send(`\`ERROR\` \`\`\`xl\n${client.clean(err)}\n\`\`\``);
 			}
-}
+)
